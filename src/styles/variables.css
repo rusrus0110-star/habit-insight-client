@@ -1,0 +1,10 @@
+:root {
+  --color-bg: #f5f7fb;
+  --color-surface: #ffffff;
+  --color-text: #1f2937;
+  --color-muted: #6b7280;
+  --color-border: #e5e7eb;
+
+  --container-padding: 24px;
+  --auth-card-width: 420px;
+}

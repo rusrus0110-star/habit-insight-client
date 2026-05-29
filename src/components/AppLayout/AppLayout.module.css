@@ -1,0 +1,39 @@
+.layout {
+  min-height: 100vh;
+}
+
+.sider {
+  min-height: 100vh;
+}
+
+.logo {
+  padding: 24px 16px;
+}
+
+.logoTitle {
+  margin: 0 !important;
+  color: #ffffff !important;
+}
+
+.logoSubtitle {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  padding: 0 24px;
+  background: #ffffff;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.userName {
+  margin-left: 8px;
+}
+
+.content {
+  padding: 24px;
+  background: #f5f7fb;
+}
