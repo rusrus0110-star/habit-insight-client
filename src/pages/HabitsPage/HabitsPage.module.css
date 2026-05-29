@@ -1,0 +1,33 @@
+.page {
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.headerText {
+  max-width: 720px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.emptyState {
+  padding: 40px 0;
+}
+
+.cardGrid {
+  margin-top: 16px;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+}
