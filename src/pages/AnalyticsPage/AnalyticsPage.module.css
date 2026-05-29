@@ -1,0 +1,28 @@
+.page {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.grid {
+  margin-top: 16px;
+}
+
+.card {
+  height: 100%;
+}
+
+.list {
+  margin-top: 12px;
+}
+
+.emptyText {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.chartCard {
+  height: 100%;
+  min-height: 320px;
+}
