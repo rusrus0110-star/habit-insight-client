@@ -1,0 +1,23 @@
+.page {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.mainGrid {
+  margin-top: 16px;
+}
+
+.card {
+  height: 100%;
+}
+
+.habitList {
+  margin-top: 12px;
+}
+
+.emptyText {
+  color: rgba(0, 0, 0, 0.45);
+}
